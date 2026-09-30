@@ -1,0 +1,10 @@
+varied_gate,value,retained_cross_context
+rho,0.15,8
+rho,0.2,8
+rho,0.25,6
+delta,0.025,9
+delta,0.05,8
+delta,0.075,6
+permutation,0.05,8
+permutation,0.1,8
+permutation,0.15,8

@@ -1,0 +1,394 @@
+[
+  {
+    "file": "analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/run_models.py",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/run_models.py",
+    "original_sha256": "2168a6b898257ec5c9e1c429d8e41a4970f2274e75aaec0970ce437354dd4fb0",
+    "published_sha256": "3ead35f7c8dfa97ef2341418c37c9951726ed820def12fedaa217b22fb7d5db9",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/score_locked.py",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/score_locked.py",
+    "original_sha256": "d4f2b4b6bb6ebc5dc4513eef5207a6b3eabc640d69834d216ff16bc9dce9e077",
+    "published_sha256": "d4f2b4b6bb6ebc5dc4513eef5207a6b3eabc640d69834d216ff16bc9dce9e077",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/finish_uncertainty.py",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/finish_uncertainty.py",
+    "original_sha256": "6cfa6baa67b896569538ed86cfe04e28c44a899c028a6607400abcb93b63c745",
+    "published_sha256": "6cfa6baa67b896569538ed86cfe04e28c44a899c028a6607400abcb93b63c745",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/run_diagnostics.py",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/run_diagnostics.py",
+    "original_sha256": "802f8a05ecf56e1cd853edc3232fb72160dfe0431c01b1a8d83b51a10b220812",
+    "published_sha256": "802f8a05ecf56e1cd853edc3232fb72160dfe0431c01b1a8d83b51a10b220812",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/run_simulations.py",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/run_simulations.py",
+    "original_sha256": "50fd57a8f814e28897664ec26d40502c1359c9a3e7928294ad5a2f4ed5dbdfef",
+    "published_sha256": "50fd57a8f814e28897664ec26d40502c1359c9a3e7928294ad5a2f4ed5dbdfef",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/correct_identity_closure.py",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/correct_identity_closure.py",
+    "original_sha256": "83b5c75b09dc0a2b86cdd9fb7b1e08bb7651b04acc2eba07462ab6adcc4704aa",
+    "published_sha256": "ebaa198a5e57bd517ab67d459c1c7d6f2a1ba19aaf98791e1d47633b5834b8b9",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/verify_run.py",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/verify_run.py",
+    "original_sha256": "6b852d44e51ae1f02f67e33ea369da034e9b5abecafde3763526f86886dff852",
+    "published_sha256": "6b852d44e51ae1f02f67e33ea369da034e9b5abecafde3763526f86886dff852",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/Cross_context_fair_increment_followup_2026-09-20_v1/run_jump_fair.py",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/run_jump_fair.py",
+    "original_sha256": "5bd9b88e1ec08bd4812df2f8e93435f9bc68460081804abd727e2ff7dbe43af9",
+    "published_sha256": "a2af0225a844ac45b43d35f4c0337a779181853846137d31c4362c65ada3b765",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/Cross_context_fair_increment_followup_2026-09-20_v1/run_evebio_fair.py",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/run_evebio_fair.py",
+    "original_sha256": "4c7110f5cbe43ea4598cac82bbe3b0f1a0a468008dc14f6d78aa5cd3b8dc3afd",
+    "published_sha256": "2e148425a44e482a34157ff10030068db071ff49299886c6f6e0be402b051ee0",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/Cross_context_fair_increment_followup_2026-09-20_v1/run_cellhealth_context.py",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/run_cellhealth_context.py",
+    "original_sha256": "7de4e6fa1c86d46c72d021caddc96ef3b63fb4d7e4e4ce64251291287834fad6",
+    "published_sha256": "da181cd98c546b9a084d2e46e1902faebfb9d51160b0eca9ee7505e0ebc010f5",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/Cross_context_fair_increment_followup_2026-09-20_v1/run_cellhealth_ablation.py",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/run_cellhealth_ablation.py",
+    "original_sha256": "228737a2780b71c92faee7d5c076b62ecf8bc69164ed5151c29ae353a2b3e087",
+    "published_sha256": "1caedc20983ae9ebc7ead04cd5a189fbb28c9dd323e65098f5bcd2862db1418f",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/Cross_context_fair_increment_followup_2026-09-20_v1/summarize_cellhealth_baselines.py",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/summarize_cellhealth_baselines.py",
+    "original_sha256": "73c7c0bf178ef45ebd6755369b296a1cf832d351401f32a22ec3e5cb20f3ab6e",
+    "published_sha256": "73c7c0bf178ef45ebd6755369b296a1cf832d351401f32a22ec3e5cb20f3ab6e",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/Remaining_evidence_closure_2026-09-20_v1/run_cardiac_reliability.py",
+    "source": "04_统计与建模/Remaining_evidence_closure_2026-09-20_v1/run_cardiac_reliability.py",
+    "original_sha256": "5950c7eef5599597589c4c4930fbfea5b38da0e92039669d5b6e2a4d40afd7ca",
+    "published_sha256": "8f9727dd199e1a59ec9dcfbd07a7bf30406c42de8a5a79756e9e5bf9526739c4",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/Remaining_evidence_closure_2026-09-20_v1/run_oasis_paired_pod.py",
+    "source": "04_统计与建模/Remaining_evidence_closure_2026-09-20_v1/run_oasis_paired_pod.py",
+    "original_sha256": "7272c26ba0d8d6749759197caeddf01dbe8e9fbf8d786c8ac2cd10020b898c2f",
+    "published_sha256": "7272c26ba0d8d6749759197caeddf01dbe8e9fbf8d786c8ac2cd10020b898c2f",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/EveBio_positive_control_2026-09-08_v1/run_evebio_scaffold_audit.py",
+    "source": "04_统计与建模/EveBio_positive_control_2026-09-08_v1/run_evebio_scaffold_audit.py",
+    "original_sha256": "ffcd3b006c3c03adf842480436a0232592add9ba9a664ccc0ba607ec2434a20f",
+    "published_sha256": "ffcd3b006c3c03adf842480436a0232592add9ba9a664ccc0ba607ec2434a20f",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/CellHealth_confirmation_2026-09-08_v1/run_cellhealth_confirmation.py",
+    "source": "04_统计与建模/CellHealth_confirmation_2026-09-08_v1/run_cellhealth_confirmation.py",
+    "original_sha256": "b6121d9633a0cffe88869f69b88281692c66a4ce4ff6a200531152f99c365db3",
+    "published_sha256": "a5c38d66c4d546185e0f9e5b0aeefb20642724ebba394c3564e3bc4a8d7d2de9",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/A1_cross_cell_transfer_2026-09-06_v1/run_A1_benchmark.py",
+    "source": "04_统计与建模/A1_cross_cell_transfer_2026-09-06_v1/run_A1_benchmark.py",
+    "original_sha256": "cee320ae56cf5d0d3128b6928c4c9af24daba48d74fb44ffea6c745323994b0b",
+    "published_sha256": "1d54e0582bd04d84556b46f020a37672d27a433d978d0c2d519eeec2ec63ec7f",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/A1_negative_transfer_and_candidate_scan_2026-09-06_v2/run_diagnostics_and_candidate_scan.py",
+    "source": "04_统计与建模/A1_negative_transfer_and_candidate_scan_2026-09-06_v2/run_diagnostics_and_candidate_scan.py",
+    "original_sha256": "af734d82d6f1e985e17444fa8ebf43be93d99099f71b6cc4a7e8b0e92ffa59f7",
+    "published_sha256": "4059667c23f5fa7f8f2ca11bf8a858ebacbf860039f02ace3efad657aeb83c89",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "preprocessing/EUOS_profiles_intake_2026-09-21_v1/intake.py",
+    "source": "03_数据治理与清洗/EUOS_profiles_intake_2026-09-21_v1/intake.py",
+    "original_sha256": "b302196c8c232fa4653ee35aa753458700b73b944e27c93ce0363f8db42c6428",
+    "published_sha256": "f9b9a31dd08165eb5f5b774e81a663971f124e9773ee48258ccc012b11f72608",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "preprocessing/EUOS_profiles_intake_2026-09-21_v1/prepare_profiles.py",
+    "source": "03_数据治理与清洗/EUOS_profiles_intake_2026-09-21_v1/prepare_profiles.py",
+    "original_sha256": "4d35f9dbf4f5f13744dff837e858d585ec7c4ce2b408d3901b6cbde59ab7993f",
+    "published_sha256": "4d35f9dbf4f5f13744dff837e858d585ec7c4ce2b408d3901b6cbde59ab7993f",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "preprocessing/JUMP_Tox21_feasibility_2026-09-07_v1/run_metadata_overlap.py",
+    "source": "03_数据治理与清洗/JUMP_Tox21_feasibility_2026-09-07_v1/run_metadata_overlap.py",
+    "original_sha256": "e94387a5ff8f1801bbc77ef2fae7a571d4dca11dcb4f037d9a610abec4a38f74",
+    "published_sha256": "e94387a5ff8f1801bbc77ef2fae7a571d4dca11dcb4f037d9a610abec4a38f74",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "preprocessing/JUMP_Tox21_feasibility_2026-09-07_v1/run_profile_qc.py",
+    "source": "03_数据治理与清洗/JUMP_Tox21_feasibility_2026-09-07_v1/run_profile_qc.py",
+    "original_sha256": "7faa19eb2be15a8facd0a0b9e61ad96123196ca52be7178af8eb91dbffc399f9",
+    "published_sha256": "7faa19eb2be15a8facd0a0b9e61ad96123196ca52be7178af8eb91dbffc399f9",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "preprocessing/JUMP_Tox21_feasibility_2026-09-07_v1/run_second_task_benchmark.py",
+    "source": "03_数据治理与清洗/JUMP_Tox21_feasibility_2026-09-07_v1/run_second_task_benchmark.py",
+    "original_sha256": "11a5c826de766f563bae91e3f7d891506226cb1934f771c5ade8f7a363c2b63a",
+    "published_sha256": "11a5c826de766f563bae91e3f7d891506226cb1934f771c5ade8f7a363c2b63a",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "preprocessing/JUMP_cell_count_proxy_intake_2026-09-08_v1/run_intake.py",
+    "source": "03_数据治理与清洗/JUMP_cell_count_proxy_intake_2026-09-08_v1/run_intake.py",
+    "original_sha256": "071b95c406ac516c3af7af3422b07a85293206a0d5d9e6eda14f3f317a3149f7",
+    "published_sha256": "071b95c406ac516c3af7af3422b07a85293206a0d5d9e6eda14f3f317a3149f7",
+    "role": "final_or_dependency"
+  },
+  {
+    "file": "analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/implementation_contract.md",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/implementation_contract.md",
+    "original_sha256": "1f22c8c7499c8133a7a7b72933ee5aacef8f97630b0b8c029f406ec33b8e276f",
+    "published_sha256": "1f22c8c7499c8133a7a7b72933ee5aacef8f97630b0b8c029f406ec33b8e276f",
+    "role": "original_scientific_specification"
+  },
+  {
+    "file": "analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/simulation_contract.md",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/simulation_contract.md",
+    "original_sha256": "338cc05372ef9daa3e95ce260256d33bbe4f94fa51775e21fc8007b191e6df07",
+    "published_sha256": "338cc05372ef9daa3e95ce260256d33bbe4f94fa51775e21fc8007b191e6df07",
+    "role": "original_scientific_specification"
+  },
+  {
+    "file": "figures/build_figures_v81.py",
+    "source": "00_项目总控/内部过程归档/图表v8.1定点修订_2026-09-29/build_figures_v81.py",
+    "original_sha256": "449ebd9f36c572fef28c381da598767fa9e4a12ae333666e56293eb91abeea49",
+    "published_sha256": "65f40f5d2020d5ce007ec9c9b08a553ab05c74cfc2701614011da8495ed4ea49",
+    "role": "final_figure_builder"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/unit_partition_labels.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/unit_partition_labels.csv",
+    "original_sha256": "63fcbab8d888aab9f4f0ddc66ad61f2c2acfa91e600a55394cd15f5591fed607",
+    "published_sha256": "63fcbab8d888aab9f4f0ddc66ad61f2c2acfa91e600a55394cd15f5591fed607",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/endpoint_qualification.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/endpoint_qualification.csv",
+    "original_sha256": "19d0147c15674b20e6b8b8acb48ff4da37ba122c15819b40a5b48e0f6a23df91",
+    "published_sha256": "19d0147c15674b20e6b8b8acb48ff4da37ba122c15819b40a5b48e0f6a23df91",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_task_comparisons.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_task_comparisons.csv",
+    "original_sha256": "37f444405924fa8cfd45a72345a3e2cd7930f5ec029bc02e043d66ec1106d2ae",
+    "published_sha256": "37f444405924fa8cfd45a72345a3e2cd7930f5ec029bc02e043d66ec1106d2ae",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_macro_comparisons.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_macro_comparisons.csv",
+    "original_sha256": "763e8a3a659b66d609645ffd7abcbea6c6fed1cff93505c60c7ea2ed8311c667",
+    "published_sha256": "763e8a3a659b66d609645ffd7abcbea6c6fed1cff93505c60c7ea2ed8311c667",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_task_metrics.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_task_metrics.csv",
+    "original_sha256": "8753029c695dfca998bdc3e802b3e2d368883ec886714299236cec1d7c642287",
+    "published_sha256": "8753029c695dfca998bdc3e802b3e2d368883ec886714299236cec1d7c642287",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/scored_predictions.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/scored_predictions.csv",
+    "original_sha256": "2605b73c5677e8774a8c741fb263317e77b4969791e90c56aa164e68fdbafbcb",
+    "published_sha256": "2605b73c5677e8774a8c741fb263317e77b4969791e90c56aa164e68fdbafbcb",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/paired_cell_context_uncertainty.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/paired_cell_context_uncertainty.csv",
+    "original_sha256": "9f03f8f5f65c9f81fa74fadeab6de802bfd4aa6a8e2caa27672fe2236fc3c4f0",
+    "published_sha256": "9f03f8f5f65c9f81fa74fadeab6de802bfd4aa6a8e2caa27672fe2236fc3c4f0",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/simulation_formal_replicates.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/simulation_formal_replicates.csv",
+    "original_sha256": "fb24b53eba03271cf3c9a082e0d8676c7dc176cfc6ca15a7d4834067d5d2557c",
+    "published_sha256": "fb24b53eba03271cf3c9a082e0d8676c7dc176cfc6ca15a7d4834067d5d2557c",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/repeat_aggregation_uncertainty.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/repeat_aggregation_uncertainty.csv",
+    "original_sha256": "7859daeaa622e9f20c81babf99b9c9b839e4ada0dc97547c098f1ddf70ca905d",
+    "published_sha256": "7859daeaa622e9f20c81babf99b9c9b839e4ada0dc97547c098f1ddf70ca905d",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/residual_sensitivity_summary.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/residual_sensitivity_summary.csv",
+    "original_sha256": "b6ad8327ba970df8e6d18557b2de29699f8745e51dc23d8a204c7e50d421b7e5",
+    "published_sha256": "b6ad8327ba970df8e6d18557b2de29699f8745e51dc23d8a204c7e50d421b7e5",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/jump_fold_results.csv",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/jump_fold_results.csv",
+    "original_sha256": "6b1cd5c09f02dd72363e1a5355df6a83c9e3f2385044a984ff0cfa949c2f2b42",
+    "published_sha256": "6b1cd5c09f02dd72363e1a5355df6a83c9e3f2385044a984ff0cfa949c2f2b42",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/evebio_fixed_comparator_summary.csv",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/evebio_fixed_comparator_summary.csv",
+    "original_sha256": "30a095f91ccc8b65725597a2331c1ccae8d3e55850abd6a3b879d9a1ce3615e4",
+    "published_sha256": "30a095f91ccc8b65725597a2331c1ccae8d3e55850abd6a3b879d9a1ce3615e4",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_endpoint_context_summary.csv",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_endpoint_context_summary.csv",
+    "original_sha256": "d104102be3c3d77487ec98dd0eff4df6735abe547b9e21808f1849fa2b93f988",
+    "published_sha256": "d104102be3c3d77487ec98dd0eff4df6735abe547b9e21808f1849fa2b93f988",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_channel_ablation_summary.csv",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_channel_ablation_summary.csv",
+    "original_sha256": "720eff8db7df026a736421fb33776519abd93fff47e977e40195eae91cc45866",
+    "published_sha256": "720eff8db7df026a736421fb33776519abd93fff47e977e40195eae91cc45866",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/cardiac_slope_reliability_summary.csv",
+    "source": "04_统计与建模/Remaining_evidence_closure_2026-09-20_v1/cardiac_slope_reliability_summary.csv",
+    "original_sha256": "733a07fd69cb2d504d21638d57dec59c4b27f6055e270bcacc4347e52fe48d13",
+    "published_sha256": "733a07fd69cb2d504d21638d57dec59c4b27f6055e270bcacc4347e52fe48d13",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/cardiac_dose_leverage_summary.csv",
+    "source": "04_统计与建模/Remaining_evidence_closure_2026-09-20_v1/cardiac_dose_leverage_summary.csv",
+    "original_sha256": "38e44d6e6f898faf7bd5cb9ec88f9b42e3bbee533e37cbebb323b531e8f706a7",
+    "published_sha256": "38e44d6e6f898faf7bd5cb9ec88f9b42e3bbee533e37cbebb323b531e8f706a7",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/oasis_complete_case_pod.csv",
+    "source": "04_统计与建模/Remaining_evidence_closure_2026-09-20_v1/oasis_complete_case_pod.csv",
+    "original_sha256": "6ed7eced56b089a0aa8665b4fdc6e210da6baed3a0f73c0f59d0804c2c734534",
+    "published_sha256": "6ed7eced56b089a0aa8665b4fdc6e210da6baed3a0f73c0f59d0804c2c734534",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/oasis_paired_pod_summary.csv",
+    "source": "04_统计与建模/Remaining_evidence_closure_2026-09-20_v1/oasis_paired_pod_summary.csv",
+    "original_sha256": "c29e6342c4a1156b8af502e17d655141b6dfaaea636f604a13c7f8d4451549ac",
+    "published_sha256": "c29e6342c4a1156b8af502e17d655141b6dfaaea636f604a13c7f8d4451549ac",
+    "role": "frozen_figure_input"
+  },
+  {
+    "file": "reference_results/preprocessing/EUOS_profiles_intake_2026-09-21_v1/profile_file_manifest.csv",
+    "source": "03_数据治理与清洗/EUOS_profiles_intake_2026-09-21_v1/profile_file_manifest.csv",
+    "original_sha256": "5076d0e0171fc58d16b96fa8afa44abc2e298dde47b65b96bdfe944ae8a524cb",
+    "published_sha256": "5076d0e0171fc58d16b96fa8afa44abc2e298dde47b65b96bdfe944ae8a524cb",
+    "role": "source_archive_member_manifest"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_ap_uncertainty.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_ap_uncertainty.csv",
+    "original_sha256": "c56b1bba10ea8938423370144edc3bcf0e02abc70415c303f7c05efddbca4cab",
+    "published_sha256": "c56b1bba10ea8938423370144edc3bcf0e02abc70415c303f7c05efddbca4cab",
+    "role": "frozen_table_source"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/paired_transport_comparisons.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/paired_transport_comparisons.csv",
+    "original_sha256": "4f7beffad3bc6fdae81d2f66384e7d897f76d0e78f4de0a40e8bcc27672f387b",
+    "published_sha256": "4f7beffad3bc6fdae81d2f66384e7d897f76d0e78f4de0a40e8bcc27672f387b",
+    "role": "frozen_table_source"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/repeatability_diagnostics.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/repeatability_diagnostics.csv",
+    "original_sha256": "1e92aecae6865cdbede054c7ee9bcda430276eab0b0b9fc4a55984fa12e0eda0",
+    "published_sha256": "1e92aecae6865cdbede054c7ee9bcda430276eab0b0b9fc4a55984fa12e0eda0",
+    "role": "frozen_table_source"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/rf_training_seed_sensitivity.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/rf_training_seed_sensitivity.csv",
+    "original_sha256": "c7400a93e1252567d788c917b1ece8901b72db81eb76ddd098708ed0d551c338",
+    "published_sha256": "c7400a93e1252567d788c917b1ece8901b72db81eb76ddd098708ed0d551c338",
+    "role": "frozen_table_source"
+  },
+  {
+    "file": "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/simulation_formal_summary.csv",
+    "source": "04_统计与建模/EUOS_locked_fusion_evaluation_2026-09-21_v2/simulation_formal_summary.csv",
+    "original_sha256": "860f8b5357df8276ffcce5e16ef85139a39603d16f33c74045aa7a6156f39e8d",
+    "published_sha256": "860f8b5357df8276ffcce5e16ef85139a39603d16f33c74045aa7a6156f39e8d",
+    "role": "frozen_table_source"
+  },
+  {
+    "file": "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/jump_fixed_comparator_summary.csv",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/jump_fixed_comparator_summary.csv",
+    "original_sha256": "397d39d73fac87149fda8d001633e956b8f2d868a95547d8d4210f584bd087e8",
+    "published_sha256": "397d39d73fac87149fda8d001633e956b8f2d868a95547d8d4210f584bd087e8",
+    "role": "frozen_table_source"
+  },
+  {
+    "file": "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_within_line_scores.csv",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_within_line_scores.csv",
+    "original_sha256": "2888ccebb6d9912460c43b5c7581ec00745e47cccb3ed15f8c50e34ec9ca804a",
+    "published_sha256": "2888ccebb6d9912460c43b5c7581ec00745e47cccb3ed15f8c50e34ec9ca804a",
+    "role": "frozen_table_source"
+  },
+  {
+    "file": "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_threshold_sensitivity.csv",
+    "source": "04_统计与建模/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_threshold_sensitivity.csv",
+    "original_sha256": "7ab9f8b5558fe7612aec45040b0826d6f963174b81440b62193e60923c001ba0",
+    "published_sha256": "7ab9f8b5558fe7612aec45040b0826d6f963174b81440b62193e60923c001ba0",
+    "role": "frozen_table_source"
+  },
+  {
+    "file": "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/cardiac_common_factor_summary.csv",
+    "source": "04_统计与建模/Remaining_evidence_closure_2026-09-20_v1/cardiac_common_factor_summary.csv",
+    "original_sha256": "59a6c72a60a4e0d4b9bd4e81398006de80bbf0bf1cb6c4f673c4734961ce4f39",
+    "published_sha256": "59a6c72a60a4e0d4b9bd4e81398006de80bbf0bf1cb6c4f673c4734961ce4f39",
+    "role": "frozen_table_source"
+  },
+  {
+    "file": "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/cardiac_common_factor_loadings.csv",
+    "source": "04_统计与建模/Remaining_evidence_closure_2026-09-20_v1/cardiac_common_factor_loadings.csv",
+    "original_sha256": "49e694eabcf7adc5048199069c8d2ff8a681de95a3cf201ac62defaa06be15ab",
+    "published_sha256": "49e694eabcf7adc5048199069c8d2ff8a681de95a3cf201ac62defaa06be15ab",
+    "role": "frozen_table_source"
+  }
+]

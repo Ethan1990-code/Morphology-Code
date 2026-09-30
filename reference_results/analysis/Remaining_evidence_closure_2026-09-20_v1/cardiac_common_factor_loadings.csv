@@ -1,0 +1,37 @@
+cohort,scaling,pathway,pc1_loading
+all_462,centered_raw,Adrenergic signaling in cardiomyocytes,0.2621751321753093
+all_462,centered_raw,Apoptosis,0.3091334937889344
+all_462,centered_raw,Autophagy,0.35502933877717396
+all_462,centered_raw,Cardiac muscle contraction,0.33476348932085004
+all_462,centered_raw,Ferroptosis,0.31284324365534893
+all_462,centered_raw,HIF-1 signaling pathway,0.36903991761777316
+all_462,centered_raw,Oxidative phosphorylation,0.4151989998248952
+all_462,centered_raw,TNF signaling pathway,0.23510303124124735
+all_462,centered_raw,p53 signaling pathway,0.36859633376002116
+all_462,z_scored,Adrenergic signaling in cardiomyocytes,0.33754442784513083
+all_462,z_scored,Apoptosis,0.3390537315771601
+all_462,z_scored,Autophagy,0.3377689267709087
+all_462,z_scored,Cardiac muscle contraction,0.32971746092679705
+all_462,z_scored,Ferroptosis,0.3183302328132893
+all_462,z_scored,HIF-1 signaling pathway,0.33844565028813844
+all_462,z_scored,Oxidative phosphorylation,0.337445660999092
+all_462,z_scored,TNF signaling pathway,0.3267029781864934
+all_462,z_scored,p53 signaling pathway,0.3343962753939683
+main_119,centered_raw,Adrenergic signaling in cardiomyocytes,0.2615756401365243
+main_119,centered_raw,Apoptosis,0.2995456054301828
+main_119,centered_raw,Autophagy,0.35779547148504276
+main_119,centered_raw,Cardiac muscle contraction,0.3354660670959487
+main_119,centered_raw,Ferroptosis,0.3304645375368167
+main_119,centered_raw,HIF-1 signaling pathway,0.3738745070234681
+main_119,centered_raw,Oxidative phosphorylation,0.40708313041494526
+main_119,centered_raw,TNF signaling pathway,0.22534103168310218
+main_119,centered_raw,p53 signaling pathway,0.3685258742160522
+main_119,z_scored,Adrenergic signaling in cardiomyocytes,0.33643867146780154
+main_119,z_scored,Apoptosis,0.3368918827800055
+main_119,z_scored,Autophagy,0.33748790532088296
+main_119,z_scored,Cardiac muscle contraction,0.3283707260909701
+main_119,z_scored,Ferroptosis,0.32674965253128424
+main_119,z_scored,HIF-1 signaling pathway,0.33737186316156004
+main_119,z_scored,Oxidative phosphorylation,0.3349989083447788
+main_119,z_scored,TNF signaling pathway,0.32718700641869325
+main_119,z_scored,p53 signaling pathway,0.33425550769239154

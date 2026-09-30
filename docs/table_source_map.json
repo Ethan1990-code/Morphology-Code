@@ -1,0 +1,162 @@
+[
+  {
+    "table": "Table 1",
+    "title": "Endpoint populations",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/endpoint_qualification.csv"
+    ]
+  },
+  {
+    "table": "Table 2",
+    "title": "Screening yield in the external laboratory",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_task_metrics.csv"
+    ]
+  },
+  {
+    "table": "Table S1",
+    "title": "Eligibility of all candidate endpoints",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/endpoint_qualification.csv"
+    ]
+  },
+  {
+    "table": "Table S2",
+    "title": "Compound allocation",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/unit_partition_labels.csv"
+    ]
+  },
+  {
+    "table": "Table S3",
+    "title": "Prediction metrics across all evaluated settings",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_task_metrics.csv"
+    ]
+  },
+  {
+    "table": "Table S4",
+    "title": "Incremental-prediction uncertainty",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_task_comparisons.csv",
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_macro_comparisons.csv",
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/external_ap_uncertainty.csv"
+    ]
+  },
+  {
+    "table": "Table S5",
+    "title": "Paired context comparisons",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/paired_transport_comparisons.csv",
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/paired_cell_context_uncertainty.csv"
+    ]
+  },
+  {
+    "table": "Table S6",
+    "title": "Repeatability and aggregate-input sensitivity",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/repeatability_diagnostics.csv",
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/repeat_aggregation_uncertainty.csv"
+    ]
+  },
+  {
+    "table": "Table S7",
+    "title": "Residual and random-forest sensitivity",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/residual_sensitivity_summary.csv",
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/rf_training_seed_sensitivity.csv"
+    ]
+  },
+  {
+    "table": "Table S8",
+    "title": "Simulation results by parameter setting",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/simulation_formal_summary.csv"
+    ]
+  },
+  {
+    "table": "Table S9",
+    "title": "Simulation replicates",
+    "sources": [
+      "reference_results/analysis/EUOS_locked_fusion_evaluation_2026-09-21_v2/simulation_formal_replicates.csv"
+    ]
+  },
+  {
+    "table": "Table S10",
+    "title": "JUMP fixed-comparator results",
+    "sources": [
+      "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/jump_fixed_comparator_summary.csv"
+    ]
+  },
+  {
+    "table": "Table S11",
+    "title": "EveBio fixed-comparator results",
+    "sources": [
+      "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/evebio_fixed_comparator_summary.csv"
+    ]
+  },
+  {
+    "table": "Table S12",
+    "title": "Cell Health endpoint contrasts",
+    "sources": [
+      "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_endpoint_context_summary.csv"
+    ]
+  },
+  {
+    "table": "Table S13",
+    "title": "Cell Health within-line scores",
+    "sources": [
+      "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_within_line_scores.csv"
+    ]
+  },
+  {
+    "table": "Table S14",
+    "title": "Cell Health retention thresholds",
+    "sources": [
+      "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_threshold_sensitivity.csv"
+    ]
+  },
+  {
+    "table": "Table S15",
+    "title": "Cell Health channel ablation",
+    "sources": [
+      "reference_results/analysis/Cross_context_fair_increment_followup_2026-09-20_v1/cellhealth_channel_ablation_summary.csv"
+    ]
+  },
+  {
+    "table": "Table S16",
+    "title": "Cardiomyocyte common response factor",
+    "sources": [
+      "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/cardiac_common_factor_summary.csv",
+      "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/cardiac_common_factor_loadings.csv"
+    ]
+  },
+  {
+    "table": "Table S17",
+    "title": "Cardiomyocyte target repeatability",
+    "sources": [
+      "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/cardiac_slope_reliability_summary.csv"
+    ]
+  },
+  {
+    "table": "Table S18",
+    "title": "Cardiomyocyte dose leverage",
+    "sources": [
+      "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/cardiac_dose_leverage_summary.csv"
+    ]
+  },
+  {
+    "table": "Table S19",
+    "title": "OASIS paired response concentrations",
+    "sources": [
+      "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/oasis_complete_case_pod.csv"
+    ]
+  },
+  {
+    "table": "Table S20",
+    "title": "OASIS paired concentration summaries",
+    "sources": [
+      "reference_results/analysis/Remaining_evidence_closure_2026-09-20_v1/oasis_paired_pod_summary.csv"
+    ]
+  }
+]

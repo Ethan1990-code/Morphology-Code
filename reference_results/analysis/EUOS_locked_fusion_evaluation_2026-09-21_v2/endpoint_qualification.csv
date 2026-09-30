@@ -1,0 +1,13 @@
+assay,development_n,development_positive,development_negative,development_groups,strict_holdout_n,strict_holdout_positive,strict_holdout_negative,strict_holdout_groups,new_entity_seen_scaffold_n,new_entity_seen_scaffold_positive,new_entity_seen_scaffold_negative,new_entity_seen_scaffold_groups,eligible_primary
+NR-AR,323,21,302,239,127,3,124,125,72,12,60,43,False
+NR-AR-LBD,288,11,277,210,119,4,115,116,64,11,53,38,False
+NR-AhR,290,54,236,218,110,8,102,107,61,6,55,36,False
+NR-Aromatase,253,24,229,188,102,13,89,100,51,4,47,36,False
+NR-ER,252,30,222,187,87,5,82,85,67,6,61,39,False
+NR-ER-LBD,294,16,278,217,119,2,117,117,69,4,65,40,False
+NR-PPAR-gamma,274,10,264,199,91,3,88,90,62,0,62,37,False
+SR-ARE,263,53,210,190,85,23,62,85,44,9,35,25,True
+SR-ATAD5,312,15,297,225,115,9,106,113,71,2,69,41,False
+SR-HSE,311,26,285,225,108,7,101,107,56,2,54,31,False
+SR-MMP,245,54,191,180,95,21,74,92,56,7,49,35,True
+SR-p53,296,38,258,213,112,13,99,111,69,6,63,41,False

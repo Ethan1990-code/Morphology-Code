@@ -1,0 +1,24 @@
+# Raw data and regenerated artifacts are not the archived result snapshots.
+/data/
+/outputs/
+/.venv/
+**/__pycache__/
+*.py[cod]
+.env
+.env.*
+.DS_Store
+Thumbs.db
+~$*
+/analysis/**/*.csv
+/analysis/**/*.gz
+/analysis/**/*.json
+/analysis/**/*.npz
+/analysis/**/*.parquet
+/preprocessing/**/*.csv
+/preprocessing/**/*.gz
+/preprocessing/**/*.json
+/preprocessing/**/*.npz
+/preprocessing/**/*.parquet
+/preprocessing/**/*.zip
+/preprocessing/**/inputs/
+
